@@ -73,13 +73,11 @@ nav a:focus{
 
 
   /* Requirement 9 code here -- Do not remove this comment. */
-.about, .clients, .method, .contact {
+.text {
   align-self: center;
   max-height: 40vh;
   overflow: scroll;
 }
-
-
 
   /*Add the media query here.  Make sure to */
 
